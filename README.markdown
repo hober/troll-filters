@@ -1,12 +1,12 @@
-# Trolls
+Trolls: don't feed them. For a survey of various kinds of trolls, see [Tantek][]'s [TrollTaxonomy][]. I have several Gmail filters which apply a 'troll' tag to emails from these people. [Here's what it looks like](http://flickr.com/photos/hober/3307846532/):
 
-This, as with all other things on this wiki, is a work in progress.
+![my gmail troll tag](http://farm4.static.flickr.com/3437/3307846532_4990d51d17_o.png)
 
----
+I find highlighting threads with troll participants with a big, red warning label helps to prioritize other, more productive threads as I read mail.
 
-Don't feed them. For a survey of various kinds of trolls, see [Tantek][]'s [TrollTaxonomy][].
+Now that Gmail supports [filter importing and exporting][], I thought I'd share my troll filters with others.
 
-## People I consider trolls
+People I consider to be trolls:
 
 * [Robert J Burns](http://www.robburns.com/) (rob@robburns.com)
 * [John Foliot](http://www.wats.ca/show.php?contentid=44) (foliot@wats.ca)
@@ -17,14 +17,7 @@ Don't feed them. For a survey of various kinds of trolls, see [Tantek][]'s [Trol
 
 See also [people Tantek considers to be trolls][TantekTrolls].
 
-## Trolls, Email, and productivity
-
-I have several Gmail filters which apply a 'troll' tag to emails from these people. [Here's what it looks like](http://flickr.com/photos/hober/3307846532/):
-
-![my gmail troll tag](http://farm4.static.flickr.com/3437/3307846532_4990d51d17_o.png)
-
-I find highlighting threads with troll participants with a big, red warning label helps to prioritize other, more productive threads as I read mail.
-
 [Tantek]: http://www.tantek.com/
 [TantekTrolls]: http://tantek.pbwiki.com/Trolls
 [TrollTaxonomy]: http://tantek.pbwiki.com/TrollTaxonomy
+[filter importing and exporting]: http://gmailblog.blogspot.com/2009/03/new-in-labs-filter-importexport.html
