@@ -9,7 +9,7 @@ Now that Gmail supports [filter importing and exporting][], I thought I'd share 
 People I consider to be trolls:
 
 * [Robert J Burns](http://www.robburns.com/) (rob@robburns.com)
-* [John Foliot](http://www.wats.ca/show.php?contentid=44) (foliot@wats.ca)
+* [John Foliot](http://www.wats.ca/show.php?contentid=44) (foliot@wats.ca, jfoliot@stanford.edu)
 * [Andy Mabbett](http://pigsonthewing.org.uk/) (andy@pigsonthewing.org.uk)
 * [Xah Lee](http://xahlee.org/) (xahlee@gmail.com, xah@xahlee.org)
 * Philip TAYLOR (P.Taylor@Rhul.Ac.Uk)

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
 	<title>Troll Filters</title>
-	<id>tag:mail.google.com,2008:filters:1235077271847,1235078405074,1235078558258,1235078836074,1235084961580,1235521406485,1243984649997</id>
-        <updated>2009-06-02T23:18:03Z</updated>
+	<id>tag:mail.google.com,2008:filters:1235077271847,1235078405074,1235078558258,1235078836074,1235084961580,1235521406485,1243984649997,1245035512636</id>
+	<updated>2009-06-15T03:12:58Z</updated>
 	<author>
 		<name>Edward O'Connor</name>
 		<email>hober0@gmail.com</email>
@@ -10,7 +10,7 @@
 	<entry>
 		<title>Philip TAYLOR</title>
 		<id>tag:mail.google.com,2008:filter:1235077271847</id>
-		<updated>2009-06-02T23:18:03Z</updated>
+		<updated>2009-06-15T03:12:58Z</updated>
 		<content></content>
 		<apps:property name='from' value='P.Taylor@Rhul.Ac.Uk'/>
 		<apps:property name='label' value='troll'/>
@@ -18,7 +18,7 @@
 	<entry>
 		<title>Xah Lee</title>
 		<id>tag:mail.google.com,2008:filter:1235078405074</id>
-		<updated>2009-06-02T23:18:03Z</updated>
+		<updated>2009-06-15T03:12:58Z</updated>
 		<content></content>
 		<apps:property name='from' value='xahlee@gmail.com'/>
 		<apps:property name='label' value='troll'/>
@@ -26,7 +26,7 @@
 	<entry>
 		<title>Rob Burns</title>
 		<id>tag:mail.google.com,2008:filter:1235078558258</id>
-		<updated>2009-06-02T23:18:03Z</updated>
+		<updated>2009-06-15T03:12:58Z</updated>
 		<content></content>
 		<apps:property name='from' value='rob@robburns.com'/>
 		<apps:property name='label' value='troll'/>
@@ -34,7 +34,7 @@
 	<entry>
 		<title>Andy Mabbett</title>
 		<id>tag:mail.google.com,2008:filter:1235078836074</id>
-		<updated>2009-06-02T23:18:03Z</updated>
+		<updated>2009-06-15T03:12:58Z</updated>
 		<content></content>
 		<apps:property name='from' value='andy@pigsonthewing.org.uk'/>
 		<apps:property name='label' value='troll'/>
@@ -42,7 +42,7 @@
 	<entry>
 		<title>Xah Lee</title>
 		<id>tag:mail.google.com,2008:filter:1235084961580</id>
-		<updated>2009-06-02T23:18:03Z</updated>
+		<updated>2009-06-15T03:12:58Z</updated>
 		<content></content>
 		<apps:property name='from' value='xah@xahlee.org'/>
 		<apps:property name='label' value='troll'/>
@@ -50,7 +50,7 @@
 	<entry>
 		<title>John Foliot</title>
 		<id>tag:mail.google.com,2008:filter:1235521406485</id>
-		<updated>2009-06-02T23:18:03Z</updated>
+		<updated>2009-06-15T03:12:58Z</updated>
 		<content></content>
 		<apps:property name='from' value='foliot@wats.ca'/>
 		<apps:property name='label' value='troll'/>
@@ -58,9 +58,17 @@
 	<entry>
 		<title>Leif Halvard Silli</title>
 		<id>tag:mail.google.com,2008:filter:1243984649997</id>
-		<updated>2009-06-02T23:18:03Z</updated>
+		<updated>2009-06-15T03:12:58Z</updated>
 		<content></content>
 		<apps:property name='from' value='lhs@malform.no'/>
+		<apps:property name='label' value='troll'/>
+	</entry>
+	<entry>
+		<title>John Foliot</title>
+		<id>tag:mail.google.com,2008:filter:1245035512636</id>
+		<updated>2009-06-15T03:12:58Z</updated>
+		<content></content>
+		<apps:property name='from' value='jfoliot@stanford.edu'/>
 		<apps:property name='label' value='troll'/>
 	</entry>
 </feed>
