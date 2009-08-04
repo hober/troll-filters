@@ -13,9 +13,9 @@ People I consider to be trolls:
 * [Andy Mabbett](http://pigsonthewing.org.uk/) (andy@pigsonthewing.org.uk)
 * [Xah Lee](http://xahlee.org/) (xahlee@gmail.com, xah@xahlee.org)
 * [William Loughborough](wloughborough@gmail.com) (wloughborough@gmail.com)
+* [Shelley Powers](http://burningbird.net/) (shelleyp@burningbird.net, shelley.just@gmail.com)
 * Philip TAYLOR (P.Taylor@Rhul.Ac.Uk)
 * [Leif Halvard Silli](http://twitter.com/komputist) (lhs@malform.no)
-* [Shelley Powers](http://burningbird.net/) (shelleyp@burningbird.net, shelley.just@gmail.com)
 
 See also [people Tantek considers to be trolls][TantekTrolls].
 
