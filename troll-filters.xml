@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
 	<title>Troll Filters</title>
 	<id>tag:mail.google.com,2008:filters:1235077271847,1235078405074,1235078558258,1235078836074,1235084961580,1235521406485,1243984649997,1245035512636</id>
-	<updated>2009-06-15T03:12:58Z</updated>
+	<updated>2009-08-04T03:03:57Z</updated>
 	<author>
 		<name>Edward O'Connor</name>
 		<email>hober0@gmail.com</email>
@@ -69,6 +69,30 @@
 		<updated>2009-06-15T03:12:58Z</updated>
 		<content></content>
 		<apps:property name='from' value='jfoliot@stanford.edu'/>
+		<apps:property name='label' value='troll'/>
+	</entry>
+	<entry>
+		<title>John Foliot</title>
+		<id>tag:mail.google.com,2008:filter:1245035512636</id>
+		<updated>2009-06-15T03:12:58Z</updated>
+		<content></content>
+		<apps:property name='from' value='foliot@stanford.edu'/>
+		<apps:property name='label' value='troll'/>
+	</entry>
+	<entry>
+		<title>Shelley Powers</title>
+		<id>tag:mail.google.com,2008:filter:1245035512636</id>
+		<updated>2009-08-04T03:03:57Z</updated>
+		<content></content>
+		<apps:property name='from' value='shelley.just@gmail.com'/>
+		<apps:property name='label' value='troll'/>
+	</entry>
+	<entry>
+		<title>Shelley Powers</title>
+		<id>tag:mail.google.com,2008:filter:1245035512636</id>
+		<updated>2009-08-04T03:03:57Z</updated>
+		<content></content>
+		<apps:property name='from' value='shelleyp@burningbird.net'/>
 		<apps:property name='label' value='troll'/>
 	</entry>
 </feed>

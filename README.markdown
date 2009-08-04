@@ -14,6 +14,7 @@ People I consider to be trolls:
 * [Xah Lee](http://xahlee.org/) (xahlee@gmail.com, xah@xahlee.org)
 * Philip TAYLOR (P.Taylor@Rhul.Ac.Uk)
 * [Leif Halvard Silli](http://twitter.com/komputist) (lhs@malform.no)
+* [Shelley Powers](http://burningbird.net/) (shelleyp@burningbird.net, shelley.just@gmail.com)
 
 See also [people Tantek considers to be trolls][TantekTrolls].
 
