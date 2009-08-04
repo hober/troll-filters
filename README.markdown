@@ -12,6 +12,7 @@ People I consider to be trolls:
 * [John Foliot](http://www.wats.ca/show.php?contentid=44) (foliot@wats.ca, jfoliot@stanford.edu)
 * [Andy Mabbett](http://pigsonthewing.org.uk/) (andy@pigsonthewing.org.uk)
 * [Xah Lee](http://xahlee.org/) (xahlee@gmail.com, xah@xahlee.org)
+* [William Loughborough](wloughborough@gmail.com) (wloughborough@gmail.com)
 * Philip TAYLOR (P.Taylor@Rhul.Ac.Uk)
 * [Leif Halvard Silli](http://twitter.com/komputist) (lhs@malform.no)
 * [Shelley Powers](http://burningbird.net/) (shelleyp@burningbird.net, shelley.just@gmail.com)

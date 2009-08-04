@@ -8,6 +8,7 @@
                 <uri>http://edward.oconnor.cx/</uri>
 	</author>
 	<entry>
+		<category term='filter'></category>
 		<title>Philip TAYLOR</title>
 		<id>tag:mail.google.com,2008:filter:1235077271847</id>
 		<updated>2009-06-15T03:12:58Z</updated>
@@ -16,6 +17,7 @@
 		<apps:property name='label' value='troll'/>
 	</entry>
 	<entry>
+		<category term='filter'></category>
 		<title>Xah Lee</title>
 		<id>tag:mail.google.com,2008:filter:1235078405074</id>
 		<updated>2009-06-15T03:12:58Z</updated>
@@ -24,6 +26,7 @@
 		<apps:property name='label' value='troll'/>
 	</entry>
 	<entry>
+		<category term='filter'></category>
 		<title>Rob Burns</title>
 		<id>tag:mail.google.com,2008:filter:1235078558258</id>
 		<updated>2009-06-15T03:12:58Z</updated>
@@ -32,6 +35,7 @@
 		<apps:property name='label' value='troll'/>
 	</entry>
 	<entry>
+		<category term='filter'></category>
 		<title>Andy Mabbett</title>
 		<id>tag:mail.google.com,2008:filter:1235078836074</id>
 		<updated>2009-06-15T03:12:58Z</updated>
@@ -40,6 +44,7 @@
 		<apps:property name='label' value='troll'/>
 	</entry>
 	<entry>
+		<category term='filter'></category>
 		<title>Xah Lee</title>
 		<id>tag:mail.google.com,2008:filter:1235084961580</id>
 		<updated>2009-06-15T03:12:58Z</updated>
@@ -48,6 +53,7 @@
 		<apps:property name='label' value='troll'/>
 	</entry>
 	<entry>
+		<category term='filter'></category>
 		<title>John Foliot</title>
 		<id>tag:mail.google.com,2008:filter:1235521406485</id>
 		<updated>2009-06-15T03:12:58Z</updated>
@@ -56,6 +62,7 @@
 		<apps:property name='label' value='troll'/>
 	</entry>
 	<entry>
+		<category term='filter'></category>
 		<title>Leif Halvard Silli</title>
 		<id>tag:mail.google.com,2008:filter:1243984649997</id>
 		<updated>2009-06-15T03:12:58Z</updated>
@@ -64,6 +71,7 @@
 		<apps:property name='label' value='troll'/>
 	</entry>
 	<entry>
+		<category term='filter'></category>
 		<title>John Foliot</title>
 		<id>tag:mail.google.com,2008:filter:1245035512636</id>
 		<updated>2009-06-15T03:12:58Z</updated>
@@ -93,6 +101,15 @@
 		<updated>2009-08-04T03:03:57Z</updated>
 		<content></content>
 		<apps:property name='from' value='shelleyp@burningbird.net'/>
+		<apps:property name='label' value='troll'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>William Loughborough</title>
+		<id>tag:mail.google.com,2008:filter:1248713383533</id>
+		<updated>2009-07-27T16:50:01Z</updated>
+		<content></content>
+		<apps:property name='from' value='wloughborough@gmail.com'/>
 		<apps:property name='label' value='troll'/>
 	</entry>
 </feed>
