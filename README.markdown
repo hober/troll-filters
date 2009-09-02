@@ -8,14 +8,16 @@ Now that Gmail supports [filter importing and exporting][], I thought I'd share 
 
 People I consider to be trolls:
 
+* Dean Anderson (dean@av8.com)
 * [Robert J Burns](http://www.robburns.com/) (rob@robburns.com)
-* [John Foliot](http://www.wats.ca/show.php?contentid=44) (foliot@wats.ca, jfoliot@stanford.edu)
-* [Andy Mabbett](http://pigsonthewing.org.uk/) (andy@pigsonthewing.org.uk)
+* [John Foliot](http://www.wats.ca/show.php?contentid=44) (foliot@wats.ca, foliot@stanford.edu, jfoliot@stanford.edu)
 * [Xah Lee](http://xahlee.org/) (xahlee@gmail.com, xah@xahlee.org)
 * [William Loughborough](wloughborough@gmail.com) (wloughborough@gmail.com)
+* [Andy Mabbett](http://pigsonthewing.org.uk/) (andy@pigsonthewing.org.uk)
 * [Shelley Powers](http://burningbird.net/) (shelleyp@burningbird.net, shelley.just@gmail.com)
-* Philip TAYLOR (P.Taylor@Rhul.Ac.Uk)
 * [Leif Halvard Silli](http://twitter.com/komputist) (lhs@malform.no)
+* Philip TAYLOR (P.Taylor@Rhul.Ac.Uk)
+* Dmitry Turin (html60@narod.ru)
 
 See also [people Tantek considers to be trolls][TantekTrolls].
 

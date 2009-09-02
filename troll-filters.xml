@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?><feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
 	<title>Troll Filters</title>
-	<id>tag:mail.google.com,2008:filters:1235077271847,1235078405074,1235078558258,1235078836074,1235084961580,1235521406485,1243984649997,1245035512636</id>
-	<updated>2009-08-04T03:03:57Z</updated>
+	<id>tag:mail.google.com,2008:filters:1235077271847,1235078405074,1235078558258,1235078836074,1235084961580,1235521406485,1243984649997,1245035512636,1248713383533,1249428227731,1249428257942,1249428291447,1250547885943,1251325369739</id>
+	<updated>2009-09-02T20:08:00Z</updated>
 	<author>
 		<name>Edward O'Connor</name>
 		<email>hober0@gmail.com</email>
@@ -80,9 +80,19 @@
 		<apps:property name='label' value='troll'/>
 	</entry>
 	<entry>
+		<category term='filter'></category>
+		<title>William Loughborough</title>
+		<id>tag:mail.google.com,2008:filter:1248713383533</id>
+		<updated>2009-09-02T20:08:00Z</updated>
+		<content></content>
+		<apps:property name='from' value='wloughborough@gmail.com'/>
+		<apps:property name='label' value='troll'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
 		<title>John Foliot</title>
-		<id>tag:mail.google.com,2008:filter:1245035512636</id>
-		<updated>2009-06-15T03:12:58Z</updated>
+		<id>tag:mail.google.com,2008:filter:1249428227731</id>
+		<updated>2009-09-02T20:08:00Z</updated>
 		<content></content>
 		<apps:property name='from' value='foliot@stanford.edu'/>
 		<apps:property name='label' value='troll'/>
@@ -105,11 +115,20 @@
 	</entry>
 	<entry>
 		<category term='filter'></category>
-		<title>William Loughborough</title>
-		<id>tag:mail.google.com,2008:filter:1248713383533</id>
-		<updated>2009-07-27T16:50:01Z</updated>
+		<title>Dmitry Turin</title>
+		<id>tag:mail.google.com,2008:filter:1250547885943</id>
+		<updated>2009-09-02T20:08:00Z</updated>
 		<content></content>
-		<apps:property name='from' value='wloughborough@gmail.com'/>
+		<apps:property name='from' value='html60@narod.ru'/>
+		<apps:property name='label' value='troll'/>
+	</entry>
+	<entry>
+		<category term='filter'></category>
+		<title>Dean Anderson</title>
+		<id>tag:mail.google.com,2008:filter:1251325369739</id>
+		<updated>2009-09-02T20:08:00Z</updated>
+		<content></content>
+		<apps:property name='from' value='dean@av8.com'/>
 		<apps:property name='label' value='troll'/>
 	</entry>
 </feed>
